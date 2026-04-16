@@ -24,3 +24,4 @@ node {
         sh 'kubectl apply -f deployment.yml'
     }
 }
+
